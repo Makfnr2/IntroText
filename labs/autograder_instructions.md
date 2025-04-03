@@ -8,8 +8,8 @@
    ⚠️ *Note: The auto-grading process takes approximately 30 seconds. Please allow some time for it to complete.*
 
 ## How to Edit and Save Files
-   - **Step 1: Edit the File**  
-     <img src="img/edit_file.png" alt="Edit file" style="border: 2px solid black; border-radius: 5px;">
+   - **Step 1: Edit the File** 
+     <img src="img/edit_file.png" alt="Edit file" style="border: 4px solid black; border-radius: 6px;">
 
    
    - **Step 2: Save Your Changes**  
